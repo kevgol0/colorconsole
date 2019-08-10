@@ -1,2 +1,2 @@
-# colorconsole
-a different color scheme for logback loggers
+#ColorConsole
+This project creates an appender with alternate color schemes for logback
